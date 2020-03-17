@@ -1,0 +1,1739 @@
+ total number of impurities =    1
+ impurity imap indices:
+       1
+ impurity num_spin_orbitals:
+       2
+ transformation db_to_sab read in.
+ imp =  1 v2e(1,1,1,1) = 2.00
+ mott localized orbital info:
+ i=  1 nsorb= 0 nelect= 0
+ ispin_in= 1 iso= 1 ispin= 1 ispo= 1
+************     h1e-unsym  ************
+ imp=  1
+ real part
+  -1.0000   0.0000
+   0.0000  -1.0000
+   orbital splitting:
+   0.00000   0.00000
+ imp=  1 eigen values of h1e-unsym:
+   -1.0000   -1.0000
+************       h1e-sym  ************
+ imp=  1
+ real part
+  -1.0000   0.0000
+   0.0000  -1.0000
+   orbital splitting:
+   0.00000   0.00000
+ imp=  1 eigen values of   h1e-sym:
+   -1.0000   -1.0000
+ max error due to symm in h1e =     0.000000
+ min/max(this%ne(1,:,:))=       2       2
+ min/max(this%ne(2,:,:))=       1       1
+ min/max(this%ne(3,:,:))=       2       2
+ this%nmax=   2
+ valence electrons: total=     0.0
+         correlated block=     0.0
+ correlated block: emin/emix=   -1.1811    1.7557
+ calc_band_all takes    0 h  0 m  0.01 s(cpu).
+                        0 h  0 m  0.01 s(wall).
+ gutz fermi level=      0.00000000
+************     nks-unsym  ************
+ imp=  1
+ real part
+   0.9468   0.0000
+   0.0000   0.9468
+   sub_tot=  1.893523
+ imp=  1 eigen values of nks-unsym:
+    0.9468    0.9468
+************       nks-sym  ************
+ imp=  1
+ real part
+   0.9468   0.0000
+   0.0000   0.9468
+   sub_tot=  1.893523
+ max error due to symm in nks =     0.000000
+ imp=  1 eigen values of   nks-sym:
+    0.9468    0.9468
+ nele_loc total:
+       0.94676   0.94676
+ no double counting.
+************         r-inp  ************
+ imp=  1
+ real part
+   0.6564   0.0000
+   0.0000   0.6564
+************     r-inp-sym  ************
+ imp=  1
+ real part
+   0.6564   0.0000
+   0.0000   0.6564
+ max error due to symm in r-inp =     0.000000
+************       la1-inp  ************
+ imp=  1
+ real part
+   0.0702   0.0000
+   0.0000   0.0702
+************   la1-inp-sym  ************
+ imp=  1
+ real part
+   0.0702   0.0000
+   0.0000   0.0702
+ max error due to symm in la1-inp =     0.000000
+ maximal local symmetrization error =    0.00000
+ CyGInit takes    0 h  0 m  0.04 s(cpu).
+                  0 h  0 m  0.24 s(wall).
+ total number of impurities =    1
+ impurity imap indices:
+       1
+ impurity num_spin_orbitals:
+       2
+ transformation db_to_sab read in.
+ imp =  1 v2e(1,1,1,1) = 2.00
+ mott localized orbital info:
+ i=  1 nsorb= 0 nelect= 0
+ ispin_in= 1 iso= 1 ispin= 1 ispo= 1
+************     h1e-unsym  ************
+ imp=  1
+ real part
+  -1.0000   0.0000
+   0.0000  -1.0000
+   orbital splitting:
+   0.00000   0.00000
+ imp=  1 eigen values of h1e-unsym:
+   -1.0000   -1.0000
+************       h1e-sym  ************
+ imp=  1
+ real part
+  -1.0000   0.0000
+   0.0000  -1.0000
+   orbital splitting:
+   0.00000   0.00000
+ imp=  1 eigen values of   h1e-sym:
+   -1.0000   -1.0000
+ max error due to symm in h1e =     0.000000
+ min/max(this%ne(1,:,:))=       2       2
+ min/max(this%ne(2,:,:))=       1       1
+ min/max(this%ne(3,:,:))=       2       2
+ this%nmax=   2
+ valence electrons: total=     0.0
+         correlated block=     0.0
+ no double counting.
+************          r-in  ************
+ imp=  1
+ real part
+   0.6564   0.0000
+   0.0000   0.6564
+************        la1-in  ************
+ imp=  1
+ real part
+   0.0702   0.0000
+   0.0000   0.0702
+ calc_band_all takes    0 h  0 m  0.01 s(cpu).
+                        0 h  0 m  0.01 s(wall).
+ gutz fermi level=      0.00000000
+************     nks-unsym  ************
+ imp=  1
+ real part
+   0.4895   0.0000
+   0.0000   0.4895
+   sub_tot=  0.978914
+ imp=  1 eigen values of nks-unsym:
+    0.4895    0.4895
+************       nks-sym  ************
+ imp=  1
+ real part
+   0.4895   0.0000
+   0.0000   0.4895
+   sub_tot=  0.978914
+ max error due to symm in nks =     0.000000
+ imp=  1 eigen values of   nks-sym:
+    0.4895    0.4895
+ nele_loc total:
+       0.48946   0.48946
+************    isimix-var  ************
+ imp=  1
+ real part
+   2.0004   0.0000
+   0.0000   2.0004
+************      d0-unsym  ************
+ imp=  1
+ real part
+  -0.1070   0.0000
+   0.0000  -0.1070
+************        d0-sym  ************
+ imp=  1
+ real part
+  -0.1070   0.0000
+   0.0000  -0.1070
+ max error due to symm in d0 =     0.000000
+************         d-sym  ************
+ imp=  1
+ real part
+  -0.2140   0.0000
+   0.0000  -0.2140
+************           la2  ************
+ imp=  1
+ real part
+  -0.0643   0.0000
+   0.0000  -0.0643
+ CyGBand takes    0 h  0 m  0.04 s(cpu).
+                  0 h  0 m  0.24 s(wall).
+ total number of impurities =    1
+ impurity imap indices:
+       1
+ impurity num_spin_orbitals:
+       2
+ transformation db_to_sab read in.
+ imp =  1 v2e(1,1,1,1) = 2.00
+ mott localized orbital info:
+ i=  1 nsorb= 0 nelect= 0
+ e_mol = -1.0683432 e_tot = -1.1969862
+************     nks-unsym  ************
+ imp=  1
+ real part
+   0.4895   0.0000
+   0.0000   0.4895
+   sub_tot=  0.978914
+ imp=  1 eigen values of nks-unsym:
+    0.4895    0.4895
+************       nks-sym  ************
+ imp=  1
+ real part
+   0.4895   0.0000
+   0.0000   0.4895
+   sub_tot=  0.978914
+ max error due to symm in nks =     0.000000
+ imp=  1 eigen values of   nks-sym:
+    0.4895    0.4895
+ nele_loc total:
+       0.48946   0.48946
+************     ncv-unsym  ************
+ imp=  1
+ real part
+   0.4775  -0.0000
+  -0.0000   0.4775
+   sub_tot=  0.955040
+************       ncv-sym  ************
+ imp=  1
+ real part
+   0.4775   0.0000
+   0.0000   0.4775
+   sub_tot=  0.955040
+ max error due to symm in ncv =     0.000000
+************    isimix-var  ************
+ imp=  1
+ real part
+   2.0004   0.0000
+   0.0000   2.0004
+************        r0-out  ************
+ imp=  1
+ real part
+   0.3185   0.0000
+   0.0000   0.3185
+************         r-out  ************
+ imp=  1
+ real part
+   0.6371   0.0000
+   0.0000   0.6371
+************     r-out-sym  ************
+ imp=  1
+ real part
+   0.6371   0.0000
+   0.0000   0.6371
+ max error due to symm in r-out =     0.000000
+************     z-out-sym  ************
+ imp=  1
+ real part
+   0.4059   0.0000
+   0.0000   0.4059
+ imp=  1 eigen values of         z:
+    0.4059    0.4059
+ maxerr =     0.027275
+ CyGErr takes    0 h  0 m  0.03 s(cpu).
+                 0 h  0 m  0.22 s(wall).
+ total number of impurities =    1
+ impurity imap indices:
+       1
+ impurity num_spin_orbitals:
+       2
+ transformation db_to_sab read in.
+ imp =  1 v2e(1,1,1,1) = 2.00
+ mott localized orbital info:
+ i=  1 nsorb= 0 nelect= 0
+ ispin_in= 1 iso= 1 ispin= 1 ispo= 1
+************     h1e-unsym  ************
+ imp=  1
+ real part
+  -1.0000   0.0000
+   0.0000  -1.0000
+   orbital splitting:
+   0.00000   0.00000
+ imp=  1 eigen values of h1e-unsym:
+   -1.0000   -1.0000
+************       h1e-sym  ************
+ imp=  1
+ real part
+  -1.0000   0.0000
+   0.0000  -1.0000
+   orbital splitting:
+   0.00000   0.00000
+ imp=  1 eigen values of   h1e-sym:
+   -1.0000   -1.0000
+ max error due to symm in h1e =     0.000000
+ min/max(this%ne(1,:,:))=       2       2
+ min/max(this%ne(2,:,:))=       1       1
+ min/max(this%ne(3,:,:))=       2       2
+ this%nmax=   2
+ valence electrons: total=     0.0
+         correlated block=     0.0
+ no double counting.
+************          r-in  ************
+ imp=  1
+ real part
+   0.6564   0.0000
+   0.0000   0.6564
+************        la1-in  ************
+ imp=  1
+ real part
+   0.0702   0.0000
+   0.0000   0.0702
+ calc_band_all takes    0 h  0 m  0.01 s(cpu).
+                        0 h  0 m  0.01 s(wall).
+ gutz fermi level=      0.00000000
+************     nks-unsym  ************
+ imp=  1
+ real part
+   0.4895   0.0000
+   0.0000   0.4895
+   sub_tot=  0.978914
+ imp=  1 eigen values of nks-unsym:
+    0.4895    0.4895
+************       nks-sym  ************
+ imp=  1
+ real part
+   0.4895   0.0000
+   0.0000   0.4895
+   sub_tot=  0.978914
+ max error due to symm in nks =     0.000000
+ imp=  1 eigen values of   nks-sym:
+    0.4895    0.4895
+ nele_loc total:
+       0.48946   0.48946
+************    isimix-var  ************
+ imp=  1
+ real part
+   2.0004   0.0000
+   0.0000   2.0004
+************      d0-unsym  ************
+ imp=  1
+ real part
+  -0.1070   0.0000
+   0.0000  -0.1070
+************        d0-sym  ************
+ imp=  1
+ real part
+  -0.1070   0.0000
+   0.0000  -0.1070
+ max error due to symm in d0 =     0.000000
+************         d-sym  ************
+ imp=  1
+ real part
+  -0.2140   0.0000
+   0.0000  -0.2140
+************           la2  ************
+ imp=  1
+ real part
+  -0.0643   0.0000
+   0.0000  -0.0643
+ e_mol = -1.0683432 e_tot = -1.1969862
+************     ncv-unsym  ************
+ imp=  1
+ real part
+   0.4775  -0.0000
+  -0.0000   0.4775
+   sub_tot=  0.955040
+************       ncv-sym  ************
+ imp=  1
+ real part
+   0.4775   0.0000
+   0.0000   0.4775
+   sub_tot=  0.955040
+ max error due to symm in ncv =     0.000000
+************     ncp-unsym  ************
+ imp=  1
+ real part
+   0.4775   0.0000
+   0.0000   0.4775
+   sub_tot=  0.955040
+************       ncp-sym  ************
+ imp=  1
+ real part
+   0.4775   0.0000
+   0.0000   0.4775
+   sub_tot=  0.955040
+ max error due to symm in ncp =     0.000000
+ imp=  1 sum_phy-sum_var=     -0.00000000
+        sum_phy-sum_ks =     -0.02387392 would be renormalized!
+************    ncp-renorm  ************
+ imp=  1
+ real part
+   0.4895   0.0000
+   0.0000   0.4895
+   sub_tot=  0.978914
+************    isimix-var  ************
+ imp=  1
+ real part
+   2.0004   0.0000
+   0.0000   2.0004
+************        r0-out  ************
+ imp=  1
+ real part
+   0.3185   0.0000
+   0.0000   0.3185
+************         r-out  ************
+ imp=  1
+ real part
+   0.6371   0.0000
+   0.0000   0.6371
+************     r-out-sym  ************
+ imp=  1
+ real part
+   0.6371   0.0000
+   0.0000   0.6371
+ max error due to symm in r-out =     0.000000
+************     z-out-sym  ************
+ imp=  1
+ real part
+   0.4059   0.0000
+   0.0000   0.4059
+ imp=  1 eigen values of         z:
+    0.4059    0.4059
+ e_total_model = -1.0954402
+ total number of electrons in simulation: 1.36342
+ maximal local symmetrization error =    0.00000
+ CyGFinal takes    0 h  0 m  0.04 s(cpu).
+                   0 h  0 m  0.24 s(wall).
+ total number of impurities =    1
+ impurity imap indices:
+       1
+ impurity num_spin_orbitals:
+       2
+ transformation db_to_sab read in.
+ imp =  1 v2e(1,1,1,1) = 2.00
+ mott localized orbital info:
+ i=  1 nsorb= 0 nelect= 0
+ ispin_in= 1 iso= 1 ispin= 1 ispo= 1
+************     h1e-unsym  ************
+ imp=  1
+ real part
+  -1.0000   0.0000
+   0.0000  -1.0000
+   orbital splitting:
+   0.00000   0.00000
+ imp=  1 eigen values of h1e-unsym:
+   -1.0000   -1.0000
+************       h1e-sym  ************
+ imp=  1
+ real part
+  -1.0000   0.0000
+   0.0000  -1.0000
+   orbital splitting:
+   0.00000   0.00000
+ imp=  1 eigen values of   h1e-sym:
+   -1.0000   -1.0000
+ max error due to symm in h1e =     0.000000
+ min/max(this%ne(1,:,:))=       2       2
+ min/max(this%ne(2,:,:))=       1       1
+ min/max(this%ne(3,:,:))=       2       2
+ this%nmax=   2
+ valence electrons: total=     0.0
+         correlated block=     0.0
+ no double counting.
+************          r-in  ************
+ imp=  1
+ real part
+   0.6564   0.0000
+   0.0000   0.6564
+************        la1-in  ************
+ imp=  1
+ real part
+   0.0702   0.0000
+   0.0000   0.0702
+ calc_band_all takes    0 h  0 m  0.01 s(cpu).
+                        0 h  0 m  0.01 s(wall).
+ gutz fermi level=      0.00000000
+************     nks-unsym  ************
+ imp=  1
+ real part
+   0.4895   0.0000
+   0.0000   0.4895
+   sub_tot=  0.978914
+ imp=  1 eigen values of nks-unsym:
+    0.4895    0.4895
+************       nks-sym  ************
+ imp=  1
+ real part
+   0.4895   0.0000
+   0.0000   0.4895
+   sub_tot=  0.978914
+ max error due to symm in nks =     0.000000
+ imp=  1 eigen values of   nks-sym:
+    0.4895    0.4895
+ nele_loc total:
+       0.48946   0.48946
+************    isimix-var  ************
+ imp=  1
+ real part
+   2.0004   0.0000
+   0.0000   2.0004
+************      d0-unsym  ************
+ imp=  1
+ real part
+  -0.1070   0.0000
+   0.0000  -0.1070
+************        d0-sym  ************
+ imp=  1
+ real part
+  -0.1070   0.0000
+   0.0000  -0.1070
+ max error due to symm in d0 =     0.000000
+************         d-sym  ************
+ imp=  1
+ real part
+  -0.2140   0.0000
+   0.0000  -0.2140
+************           la2  ************
+ imp=  1
+ real part
+  -0.0643   0.0000
+   0.0000  -0.0643
+ CyGBand takes    0 h  0 m  0.04 s(cpu).
+                  0 h  0 m  0.24 s(wall).
+ total number of impurities =    1
+ impurity imap indices:
+       1
+ impurity num_spin_orbitals:
+       2
+ transformation db_to_sab read in.
+ imp =  1 v2e(1,1,1,1) = 2.00
+ mott localized orbital info:
+ i=  1 nsorb= 0 nelect= 0
+ e_mol = -1.0876639 e_tot = -1.2163069
+************     nks-unsym  ************
+ imp=  1
+ real part
+   0.4895   0.0000
+   0.0000   0.4895
+   sub_tot=  0.978914
+ imp=  1 eigen values of nks-unsym:
+    0.4895    0.4895
+************       nks-sym  ************
+ imp=  1
+ real part
+   0.4895   0.0000
+   0.0000   0.4895
+   sub_tot=  0.978914
+ max error due to symm in nks =     0.000000
+ imp=  1 eigen values of   nks-sym:
+    0.4895    0.4895
+ nele_loc total:
+       0.48946   0.48946
+************     ncv-unsym  ************
+ imp=  1
+ real part
+   0.4666  -0.0000
+  -0.0000   0.4666
+   sub_tot=  0.933225
+************       ncv-sym  ************
+ imp=  1
+ real part
+   0.4666   0.0000
+   0.0000   0.4666
+   sub_tot=  0.933225
+ max error due to symm in ncv =     0.000000
+************    isimix-var  ************
+ imp=  1
+ real part
+   2.0004   0.0000
+   0.0000   2.0004
+************        r0-out  ************
+ imp=  1
+ real part
+   0.3222   0.0000
+   0.0000   0.3222
+************         r-out  ************
+ imp=  1
+ real part
+   0.6446   0.0000
+   0.0000   0.6446
+************     r-out-sym  ************
+ imp=  1
+ real part
+   0.6446   0.0000
+   0.0000   0.6446
+ max error due to symm in r-out =     0.000000
+************     z-out-sym  ************
+ imp=  1
+ real part
+   0.4155   0.0000
+   0.0000   0.4155
+ imp=  1 eigen values of         z:
+    0.4155    0.4155
+ maxerr =     0.032307
+ CyGErr takes    0 h  0 m  0.03 s(cpu).
+                 0 h  0 m  0.23 s(wall).
+ total number of impurities =    1
+ impurity imap indices:
+       1
+ impurity num_spin_orbitals:
+       2
+ transformation db_to_sab read in.
+ imp =  1 v2e(1,1,1,1) = 2.00
+ mott localized orbital info:
+ i=  1 nsorb= 0 nelect= 0
+ ispin_in= 1 iso= 1 ispin= 1 ispo= 1
+************     h1e-unsym  ************
+ imp=  1
+ real part
+  -1.0000   0.0000
+   0.0000  -1.0000
+   orbital splitting:
+   0.00000   0.00000
+ imp=  1 eigen values of h1e-unsym:
+   -1.0000   -1.0000
+************       h1e-sym  ************
+ imp=  1
+ real part
+  -1.0000   0.0000
+   0.0000  -1.0000
+   orbital splitting:
+   0.00000   0.00000
+ imp=  1 eigen values of   h1e-sym:
+   -1.0000   -1.0000
+ max error due to symm in h1e =     0.000000
+ min/max(this%ne(1,:,:))=       2       2
+ min/max(this%ne(2,:,:))=       1       1
+ min/max(this%ne(3,:,:))=       2       2
+ this%nmax=   2
+ valence electrons: total=     0.0
+         correlated block=     0.0
+ no double counting.
+************          r-in  ************
+ imp=  1
+ real part
+   0.6564   0.0000
+   0.0000   0.6564
+************        la1-in  ************
+ imp=  1
+ real part
+   0.0702   0.0000
+   0.0000   0.0702
+ calc_band_all takes    0 h  0 m  0.01 s(cpu).
+                        0 h  0 m  0.01 s(wall).
+ gutz fermi level=      0.00000000
+************     nks-unsym  ************
+ imp=  1
+ real part
+   0.4895   0.0000
+   0.0000   0.4895
+   sub_tot=  0.978914
+ imp=  1 eigen values of nks-unsym:
+    0.4895    0.4895
+************       nks-sym  ************
+ imp=  1
+ real part
+   0.4895   0.0000
+   0.0000   0.4895
+   sub_tot=  0.978914
+ max error due to symm in nks =     0.000000
+ imp=  1 eigen values of   nks-sym:
+    0.4895    0.4895
+ nele_loc total:
+       0.48946   0.48946
+************    isimix-var  ************
+ imp=  1
+ real part
+   2.0004   0.0000
+   0.0000   2.0004
+************      d0-unsym  ************
+ imp=  1
+ real part
+  -0.1070   0.0000
+   0.0000  -0.1070
+************        d0-sym  ************
+ imp=  1
+ real part
+  -0.1070   0.0000
+   0.0000  -0.1070
+ max error due to symm in d0 =     0.000000
+************         d-sym  ************
+ imp=  1
+ real part
+  -0.2140   0.0000
+   0.0000  -0.2140
+************           la2  ************
+ imp=  1
+ real part
+  -0.0643   0.0000
+   0.0000  -0.0643
+ e_mol = -1.0876639 e_tot = -1.2163069
+************     ncv-unsym  ************
+ imp=  1
+ real part
+   0.4666  -0.0000
+  -0.0000   0.4666
+   sub_tot=  0.933225
+************       ncv-sym  ************
+ imp=  1
+ real part
+   0.4666   0.0000
+   0.0000   0.4666
+   sub_tot=  0.933225
+ max error due to symm in ncv =     0.000000
+************     ncp-unsym  ************
+ imp=  1
+ real part
+   0.4666   0.0000
+   0.0000   0.4666
+   sub_tot=  0.933225
+************       ncp-sym  ************
+ imp=  1
+ real part
+   0.4666   0.0000
+   0.0000   0.4666
+   sub_tot=  0.933225
+ max error due to symm in ncp =     0.000000
+ imp=  1 sum_phy-sum_var=     -0.00000000
+        sum_phy-sum_ks =     -0.04568914 would be renormalized!
+************    ncp-renorm  ************
+ imp=  1
+ real part
+   0.4895   0.0000
+   0.0000   0.4895
+   sub_tot=  0.978914
+************    isimix-var  ************
+ imp=  1
+ real part
+   2.0004   0.0000
+   0.0000   2.0004
+************        r0-out  ************
+ imp=  1
+ real part
+   0.3222   0.0000
+   0.0000   0.3222
+************         r-out  ************
+ imp=  1
+ real part
+   0.6446   0.0000
+   0.0000   0.6446
+************     r-out-sym  ************
+ imp=  1
+ real part
+   0.6446   0.0000
+   0.0000   0.6446
+ max error due to symm in r-out =     0.000000
+************     z-out-sym  ************
+ imp=  1
+ real part
+   0.4155   0.0000
+   0.0000   0.4155
+ imp=  1 eigen values of         z:
+    0.4155    0.4155
+ e_total_model = -1.1347932
+ total number of electrons in simulation: 1.36342
+ maximal local symmetrization error =    0.00000
+ CyGFinal takes    0 h  0 m  0.05 s(cpu).
+                   0 h  0 m  0.24 s(wall).
+ total number of impurities =    1
+ impurity imap indices:
+       1
+ impurity num_spin_orbitals:
+       2
+ transformation db_to_sab read in.
+ imp =  1 v2e(1,1,1,1) = 2.00
+ mott localized orbital info:
+ i=  1 nsorb= 0 nelect= 0
+ ispin_in= 1 iso= 1 ispin= 1 ispo= 1
+************     h1e-unsym  ************
+ imp=  1
+ real part
+  -1.0000   0.0000
+   0.0000  -1.0000
+   orbital splitting:
+   0.00000   0.00000
+ imp=  1 eigen values of h1e-unsym:
+   -1.0000   -1.0000
+************       h1e-sym  ************
+ imp=  1
+ real part
+  -1.0000   0.0000
+   0.0000  -1.0000
+   orbital splitting:
+   0.00000   0.00000
+ imp=  1 eigen values of   h1e-sym:
+   -1.0000   -1.0000
+ max error due to symm in h1e =     0.000000
+ min/max(this%ne(1,:,:))=       2       2
+ min/max(this%ne(2,:,:))=       1       1
+ min/max(this%ne(3,:,:))=       2       2
+ this%nmax=   2
+ valence electrons: total=     0.0
+         correlated block=     0.0
+ no double counting.
+************          r-in  ************
+ imp=  1
+ real part
+   0.4937   0.0000
+   0.0000   0.4937
+************        la1-in  ************
+ imp=  1
+ real part
+   0.3841   0.0000
+   0.0000   0.3841
+ calc_band_all takes    0 h  0 m  0.01 s(cpu).
+                        0 h  0 m  0.01 s(wall).
+ gutz fermi level=      0.00000000
+************     nks-unsym  ************
+ imp=  1
+ real part
+   0.0191   0.0000
+   0.0000   0.0191
+   sub_tot=  0.038163
+ imp=  1 eigen values of nks-unsym:
+    0.0191    0.0191
+************       nks-sym  ************
+ imp=  1
+ real part
+   0.0191   0.0000
+   0.0000   0.0191
+   sub_tot=  0.038163
+ max error due to symm in nks =     0.000000
+ imp=  1 eigen values of   nks-sym:
+    0.0191    0.0191
+ nele_loc total:
+       0.01908   0.01908
+************    isimix-var  ************
+ imp=  1
+ real part
+   7.3093   0.0000
+   0.0000   7.3093
+************      d0-unsym  ************
+ imp=  1
+ real part
+  -0.0192   0.0000
+   0.0000  -0.0192
+************        d0-sym  ************
+ imp=  1
+ real part
+  -0.0192   0.0000
+   0.0000  -0.0192
+ max error due to symm in d0 =     0.000000
+************         d-sym  ************
+ imp=  1
+ real part
+  -0.1402   0.0000
+   0.0000  -0.1402
+************           la2  ************
+ imp=  1
+ real part
+   0.1024   0.0000
+   0.0000   0.1024
+ CyGBand takes    0 h  0 m  0.04 s(cpu).
+                  0 h  0 m  0.24 s(wall).
+ total number of impurities =    1
+ impurity imap indices:
+       1
+ impurity num_spin_orbitals:
+       2
+ transformation db_to_sab read in.
+ imp =  1 v2e(1,1,1,1) = 2.00
+ mott localized orbital info:
+ i=  1 nsorb= 0 nelect= 0
+ e_mol = -1.1233351 e_tot = -.9185286
+************     nks-unsym  ************
+ imp=  1
+ real part
+   0.0191   0.0000
+   0.0000   0.0191
+   sub_tot=  0.038163
+ imp=  1 eigen values of nks-unsym:
+    0.0191    0.0191
+************       nks-sym  ************
+ imp=  1
+ real part
+   0.0191   0.0000
+   0.0000   0.0191
+   sub_tot=  0.038163
+ max error due to symm in nks =     0.000000
+ imp=  1 eigen values of   nks-sym:
+    0.0191    0.0191
+ nele_loc total:
+       0.01908   0.01908
+************     ncv-unsym  ************
+ imp=  1
+ real part
+   0.5314  -0.0000
+  -0.0000   0.5314
+   sub_tot=  1.062891
+************       ncv-sym  ************
+ imp=  1
+ real part
+   0.5314   0.0000
+   0.0000   0.5314
+   sub_tot=  1.062891
+ max error due to symm in ncv =     0.000000
+************    isimix-var  ************
+ imp=  1
+ real part
+   7.3093   0.0000
+   0.0000   7.3093
+************        r0-out  ************
+ imp=  1
+ real part
+   0.2534   0.0000
+   0.0000   0.2534
+************         r-out  ************
+ imp=  1
+ real part
+   1.8525   0.0000
+   0.0000   1.8525
+************     r-out-sym  ************
+ imp=  1
+ real part
+   1.8525   0.0000
+   0.0000   1.8525
+ max error due to symm in r-out =     0.000000
+************     z-out-sym  ************
+ imp=  1
+ real part
+   3.4318   0.0000
+   0.0000   3.4318
+ imp=  1 eigen values of         z:
+    3.4318    3.4318
+ maxerr =     1.921637
+ CyGErr takes    0 h  0 m  0.03 s(cpu).
+                 0 h  0 m  0.22 s(wall).
+ total number of impurities =    1
+ impurity imap indices:
+       1
+ impurity num_spin_orbitals:
+       2
+ transformation db_to_sab read in.
+ imp =  1 v2e(1,1,1,1) = 2.00
+ mott localized orbital info:
+ i=  1 nsorb= 0 nelect= 0
+ ispin_in= 1 iso= 1 ispin= 1 ispo= 1
+************     h1e-unsym  ************
+ imp=  1
+ real part
+  -1.0000   0.0000
+   0.0000  -1.0000
+   orbital splitting:
+   0.00000   0.00000
+ imp=  1 eigen values of h1e-unsym:
+   -1.0000   -1.0000
+************       h1e-sym  ************
+ imp=  1
+ real part
+  -1.0000   0.0000
+   0.0000  -1.0000
+   orbital splitting:
+   0.00000   0.00000
+ imp=  1 eigen values of   h1e-sym:
+   -1.0000   -1.0000
+ max error due to symm in h1e =     0.000000
+ min/max(this%ne(1,:,:))=       2       2
+ min/max(this%ne(2,:,:))=       1       1
+ min/max(this%ne(3,:,:))=       2       2
+ this%nmax=   2
+ valence electrons: total=     0.0
+         correlated block=     0.0
+ no double counting.
+************          r-in  ************
+ imp=  1
+ real part
+   0.6564   0.0000
+   0.0000   0.6564
+************        la1-in  ************
+ imp=  1
+ real part
+   0.0703   0.0000
+   0.0000   0.0703
+ calc_band_all takes    0 h  0 m  0.01 s(cpu).
+                        0 h  0 m  0.01 s(wall).
+ gutz fermi level=      0.00000000
+************     nks-unsym  ************
+ imp=  1
+ real part
+   0.4890   0.0000
+   0.0000   0.4890
+   sub_tot=  0.978002
+ imp=  1 eigen values of nks-unsym:
+    0.4890    0.4890
+************       nks-sym  ************
+ imp=  1
+ real part
+   0.4890   0.0000
+   0.0000   0.4890
+   sub_tot=  0.978002
+ max error due to symm in nks =     0.000000
+ imp=  1 eigen values of   nks-sym:
+    0.4890    0.4890
+ nele_loc total:
+       0.48900   0.48900
+************    isimix-var  ************
+ imp=  1
+ real part
+   2.0005   0.0000
+   0.0000   2.0005
+************      d0-unsym  ************
+ imp=  1
+ real part
+  -0.1069   0.0000
+   0.0000  -0.1069
+************        d0-sym  ************
+ imp=  1
+ real part
+  -0.1069   0.0000
+   0.0000  -0.1069
+ max error due to symm in d0 =     0.000000
+************         d-sym  ************
+ imp=  1
+ real part
+  -0.2139   0.0000
+   0.0000  -0.2139
+************           la2  ************
+ imp=  1
+ real part
+  -0.0641   0.0000
+   0.0000  -0.0641
+ CyGBand takes    0 h  0 m  0.04 s(cpu).
+                  0 h  0 m  0.24 s(wall).
+ total number of impurities =    1
+ impurity imap indices:
+       1
+ impurity num_spin_orbitals:
+       2
+ transformation db_to_sab read in.
+ imp =  1 v2e(1,1,1,1) = 2.00
+ mott localized orbital info:
+ i=  1 nsorb= 0 nelect= 0
+ e_mol = -1.0361317 e_tot = -1.1643662
+************     nks-unsym  ************
+ imp=  1
+ real part
+   0.4890   0.0000
+   0.0000   0.4890
+   sub_tot=  0.978002
+ imp=  1 eigen values of nks-unsym:
+    0.4890    0.4890
+************       nks-sym  ************
+ imp=  1
+ real part
+   0.4890   0.0000
+   0.0000   0.4890
+   sub_tot=  0.978002
+ max error due to symm in nks =     0.000000
+ imp=  1 eigen values of   nks-sym:
+    0.4890    0.4890
+ nele_loc total:
+       0.48900   0.48900
+************     ncv-unsym  ************
+ imp=  1
+ real part
+   0.4801  -0.0000
+  -0.0000   0.4801
+   sub_tot=  0.960115
+************       ncv-sym  ************
+ imp=  1
+ real part
+   0.4801   0.0000
+   0.0000   0.4801
+   sub_tot=  0.960115
+ max error due to symm in ncv =     0.000000
+************    isimix-var  ************
+ imp=  1
+ real part
+   2.0005   0.0000
+   0.0000   2.0005
+************        r0-out  ************
+ imp=  1
+ real part
+   0.3344   0.0000
+   0.0000   0.3344
+************         r-out  ************
+ imp=  1
+ real part
+   0.6690   0.0000
+   0.0000   0.6690
+************     r-out-sym  ************
+ imp=  1
+ real part
+   0.6690   0.0000
+   0.0000   0.6690
+ max error due to symm in r-out =     0.000000
+************     z-out-sym  ************
+ imp=  1
+ real part
+   0.4475   0.0000
+   0.0000   0.4475
+ imp=  1 eigen values of         z:
+    0.4475    0.4475
+ maxerr =     0.017790
+ CyGErr takes    0 h  0 m  0.03 s(cpu).
+                 0 h  0 m  0.22 s(wall).
+ total number of impurities =    1
+ impurity imap indices:
+       1
+ impurity num_spin_orbitals:
+       2
+ transformation db_to_sab read in.
+ imp =  1 v2e(1,1,1,1) = 2.00
+ mott localized orbital info:
+ i=  1 nsorb= 0 nelect= 0
+ ispin_in= 1 iso= 1 ispin= 1 ispo= 1
+************     h1e-unsym  ************
+ imp=  1
+ real part
+  -1.0000   0.0000
+   0.0000  -1.0000
+   orbital splitting:
+   0.00000   0.00000
+ imp=  1 eigen values of h1e-unsym:
+   -1.0000   -1.0000
+************       h1e-sym  ************
+ imp=  1
+ real part
+  -1.0000   0.0000
+   0.0000  -1.0000
+   orbital splitting:
+   0.00000   0.00000
+ imp=  1 eigen values of   h1e-sym:
+   -1.0000   -1.0000
+ max error due to symm in h1e =     0.000000
+ min/max(this%ne(1,:,:))=       2       2
+ min/max(this%ne(2,:,:))=       1       1
+ min/max(this%ne(3,:,:))=       2       2
+ this%nmax=   2
+ valence electrons: total=     0.0
+         correlated block=     0.0
+ no double counting.
+************          r-in  ************
+ imp=  1
+ real part
+   0.6564   0.0000
+   0.0000   0.6564
+************        la1-in  ************
+ imp=  1
+ real part
+   0.0703   0.0000
+   0.0000   0.0703
+ calc_band_all takes    0 h  0 m  0.01 s(cpu).
+                        0 h  0 m  0.01 s(wall).
+ gutz fermi level=      0.00000000
+************     nks-unsym  ************
+ imp=  1
+ real part
+   0.4890   0.0000
+   0.0000   0.4890
+   sub_tot=  0.978002
+ imp=  1 eigen values of nks-unsym:
+    0.4890    0.4890
+************       nks-sym  ************
+ imp=  1
+ real part
+   0.4890   0.0000
+   0.0000   0.4890
+   sub_tot=  0.978002
+ max error due to symm in nks =     0.000000
+ imp=  1 eigen values of   nks-sym:
+    0.4890    0.4890
+ nele_loc total:
+       0.48900   0.48900
+************    isimix-var  ************
+ imp=  1
+ real part
+   2.0005   0.0000
+   0.0000   2.0005
+************      d0-unsym  ************
+ imp=  1
+ real part
+  -0.1069   0.0000
+   0.0000  -0.1069
+************        d0-sym  ************
+ imp=  1
+ real part
+  -0.1069   0.0000
+   0.0000  -0.1069
+ max error due to symm in d0 =     0.000000
+************         d-sym  ************
+ imp=  1
+ real part
+  -0.2139   0.0000
+   0.0000  -0.2139
+************           la2  ************
+ imp=  1
+ real part
+  -0.0641   0.0000
+   0.0000  -0.0641
+ e_mol = -1.0361317 e_tot = -1.1643662
+************     ncv-unsym  ************
+ imp=  1
+ real part
+   0.4801  -0.0000
+  -0.0000   0.4801
+   sub_tot=  0.960115
+************       ncv-sym  ************
+ imp=  1
+ real part
+   0.4801   0.0000
+   0.0000   0.4801
+   sub_tot=  0.960115
+ max error due to symm in ncv =     0.000000
+************     ncp-unsym  ************
+ imp=  1
+ real part
+   0.4801   0.0000
+   0.0000   0.4801
+   sub_tot=  0.960115
+************       ncp-sym  ************
+ imp=  1
+ real part
+   0.4801   0.0000
+   0.0000   0.4801
+   sub_tot=  0.960115
+ max error due to symm in ncp =     0.000000
+ imp=  1 sum_phy-sum_var=     -0.00000000
+        sum_phy-sum_ks =     -0.01788668 would be renormalized!
+************    ncp-renorm  ************
+ imp=  1
+ real part
+   0.4890   0.0000
+   0.0000   0.4890
+   sub_tot=  0.978002
+************    isimix-var  ************
+ imp=  1
+ real part
+   2.0005   0.0000
+   0.0000   2.0005
+************        r0-out  ************
+ imp=  1
+ real part
+   0.3344   0.0000
+   0.0000   0.3344
+************         r-out  ************
+ imp=  1
+ real part
+   0.6690   0.0000
+   0.0000   0.6690
+************     r-out-sym  ************
+ imp=  1
+ real part
+   0.6690   0.0000
+   0.0000   0.6690
+ max error due to symm in r-out =     0.000000
+************     z-out-sym  ************
+ imp=  1
+ real part
+   0.4475   0.0000
+   0.0000   0.4475
+ imp=  1 eigen values of         z:
+    0.4475    0.4475
+ e_total_model = -1.0431250
+ total number of electrons in simulation: 1.36248
+ maximal local symmetrization error =    0.00000
+ CyGFinal takes    0 h  0 m  0.04 s(cpu).
+                   0 h  0 m  0.24 s(wall).
+ total number of impurities =    1
+ impurity imap indices:
+       1
+ impurity num_spin_orbitals:
+       2
+ transformation db_to_sab read in.
+ imp =  1 v2e(1,1,1,1) = 2.00
+ mott localized orbital info:
+ i=  1 nsorb= 0 nelect= 0
+ ispin_in= 1 iso= 1 ispin= 1 ispo= 1
+************     h1e-unsym  ************
+ imp=  1
+ real part
+  -1.0000   0.0000
+   0.0000  -1.0000
+   orbital splitting:
+   0.00000   0.00000
+ imp=  1 eigen values of h1e-unsym:
+   -1.0000   -1.0000
+************       h1e-sym  ************
+ imp=  1
+ real part
+  -1.0000   0.0000
+   0.0000  -1.0000
+   orbital splitting:
+   0.00000   0.00000
+ imp=  1 eigen values of   h1e-sym:
+   -1.0000   -1.0000
+ max error due to symm in h1e =     0.000000
+ min/max(this%ne(1,:,:))=       2       2
+ min/max(this%ne(2,:,:))=       1       1
+ min/max(this%ne(3,:,:))=       2       2
+ this%nmax=   2
+ valence electrons: total=     0.0
+         correlated block=     0.0
+ no double counting.
+************          r-in  ************
+ imp=  1
+ real part
+   0.6614   0.0000
+   0.0000   0.6614
+************        la1-in  ************
+ imp=  1
+ real part
+   0.0739   0.0000
+   0.0000   0.0739
+ calc_band_all takes    0 h  0 m  0.01 s(cpu).
+                        0 h  0 m  0.01 s(wall).
+ gutz fermi level=      0.00000000
+************     nks-unsym  ************
+ imp=  1
+ real part
+   0.4679   0.0000
+   0.0000   0.4679
+   sub_tot=  0.935783
+ imp=  1 eigen values of nks-unsym:
+    0.4679    0.4679
+************       nks-sym  ************
+ imp=  1
+ real part
+   0.4679   0.0000
+   0.0000   0.4679
+   sub_tot=  0.935783
+ max error due to symm in nks =     0.000000
+ imp=  1 eigen values of   nks-sym:
+    0.4679    0.4679
+ nele_loc total:
+       0.46789   0.46789
+************    isimix-var  ************
+ imp=  1
+ real part
+   2.0041   0.0000
+   0.0000   2.0041
+************      d0-unsym  ************
+ imp=  1
+ real part
+  -0.1053   0.0000
+   0.0000  -0.1053
+************        d0-sym  ************
+ imp=  1
+ real part
+  -0.1053   0.0000
+   0.0000  -0.1053
+ max error due to symm in d0 =     0.000000
+************         d-sym  ************
+ imp=  1
+ real part
+  -0.2110   0.0000
+   0.0000  -0.2110
+************           la2  ************
+ imp=  1
+ real part
+  -0.0559   0.0000
+   0.0000  -0.0559
+ CyGBand takes    0 h  0 m  0.04 s(cpu).
+                  0 h  0 m  0.24 s(wall).
+ total number of impurities =    1
+ impurity imap indices:
+       1
+ impurity num_spin_orbitals:
+       2
+ transformation db_to_sab read in.
+ imp =  1 v2e(1,1,1,1) = 2.00
+ mott localized orbital info:
+ i=  1 nsorb= 0 nelect= 0
+ e_mol = -1.0347692 e_tot = -1.1465987
+************     nks-unsym  ************
+ imp=  1
+ real part
+   0.4679   0.0000
+   0.0000   0.4679
+   sub_tot=  0.935783
+ imp=  1 eigen values of nks-unsym:
+    0.4679    0.4679
+************       nks-sym  ************
+ imp=  1
+ real part
+   0.4679   0.0000
+   0.0000   0.4679
+   sub_tot=  0.935783
+ max error due to symm in nks =     0.000000
+ imp=  1 eigen values of   nks-sym:
+    0.4679    0.4679
+ nele_loc total:
+       0.46789   0.46789
+************     ncv-unsym  ************
+ imp=  1
+ real part
+   0.4616  -0.0000
+  -0.0000   0.4616
+   sub_tot=  0.923193
+************       ncv-sym  ************
+ imp=  1
+ real part
+   0.4616   0.0000
+   0.0000   0.4616
+   sub_tot=  0.923193
+ max error due to symm in ncv =     0.000000
+************    isimix-var  ************
+ imp=  1
+ real part
+   2.0041   0.0000
+   0.0000   2.0041
+************        r0-out  ************
+ imp=  1
+ real part
+   0.3267   0.0000
+   0.0000   0.3267
+************         r-out  ************
+ imp=  1
+ real part
+   0.6548   0.0000
+   0.0000   0.6548
+************     r-out-sym  ************
+ imp=  1
+ real part
+   0.6548   0.0000
+   0.0000   0.6548
+ max error due to symm in r-out =     0.000000
+************     z-out-sym  ************
+ imp=  1
+ real part
+   0.4288   0.0000
+   0.0000   0.4288
+ imp=  1 eigen values of         z:
+    0.4288    0.4288
+ maxerr =     0.009317
+ CyGErr takes    0 h  0 m  0.03 s(cpu).
+                 0 h  0 m  0.22 s(wall).
+ total number of impurities =    1
+ impurity imap indices:
+       1
+ impurity num_spin_orbitals:
+       2
+ transformation db_to_sab read in.
+ imp =  1 v2e(1,1,1,1) = 2.00
+ mott localized orbital info:
+ i=  1 nsorb= 0 nelect= 0
+ ispin_in= 1 iso= 1 ispin= 1 ispo= 1
+************     h1e-unsym  ************
+ imp=  1
+ real part
+  -1.0000   0.0000
+   0.0000  -1.0000
+   orbital splitting:
+   0.00000   0.00000
+ imp=  1 eigen values of h1e-unsym:
+   -1.0000   -1.0000
+************       h1e-sym  ************
+ imp=  1
+ real part
+  -1.0000   0.0000
+   0.0000  -1.0000
+   orbital splitting:
+   0.00000   0.00000
+ imp=  1 eigen values of   h1e-sym:
+   -1.0000   -1.0000
+ max error due to symm in h1e =     0.000000
+ min/max(this%ne(1,:,:))=       2       2
+ min/max(this%ne(2,:,:))=       1       1
+ min/max(this%ne(3,:,:))=       2       2
+ this%nmax=   2
+ valence electrons: total=     0.0
+         correlated block=     0.0
+ no double counting.
+************          r-in  ************
+ imp=  1
+ real part
+   0.6614   0.0000
+   0.0000   0.6614
+************        la1-in  ************
+ imp=  1
+ real part
+   0.0739   0.0000
+   0.0000   0.0739
+ calc_band_all takes    0 h  0 m  0.01 s(cpu).
+                        0 h  0 m  0.01 s(wall).
+ gutz fermi level=      0.00000000
+************     nks-unsym  ************
+ imp=  1
+ real part
+   0.4679   0.0000
+   0.0000   0.4679
+   sub_tot=  0.935783
+ imp=  1 eigen values of nks-unsym:
+    0.4679    0.4679
+************       nks-sym  ************
+ imp=  1
+ real part
+   0.4679   0.0000
+   0.0000   0.4679
+   sub_tot=  0.935783
+ max error due to symm in nks =     0.000000
+ imp=  1 eigen values of   nks-sym:
+    0.4679    0.4679
+ nele_loc total:
+       0.46789   0.46789
+************    isimix-var  ************
+ imp=  1
+ real part
+   2.0041   0.0000
+   0.0000   2.0041
+************      d0-unsym  ************
+ imp=  1
+ real part
+  -0.1053   0.0000
+   0.0000  -0.1053
+************        d0-sym  ************
+ imp=  1
+ real part
+  -0.1053   0.0000
+   0.0000  -0.1053
+ max error due to symm in d0 =     0.000000
+************         d-sym  ************
+ imp=  1
+ real part
+  -0.2110   0.0000
+   0.0000  -0.2110
+************           la2  ************
+ imp=  1
+ real part
+  -0.0559   0.0000
+   0.0000  -0.0559
+ e_mol = -1.0347692 e_tot = -1.1465987
+************     ncv-unsym  ************
+ imp=  1
+ real part
+   0.4616  -0.0000
+  -0.0000   0.4616
+   sub_tot=  0.923193
+************       ncv-sym  ************
+ imp=  1
+ real part
+   0.4616   0.0000
+   0.0000   0.4616
+   sub_tot=  0.923193
+ max error due to symm in ncv =     0.000000
+************     ncp-unsym  ************
+ imp=  1
+ real part
+   0.4616   0.0000
+   0.0000   0.4616
+   sub_tot=  0.923193
+************       ncp-sym  ************
+ imp=  1
+ real part
+   0.4616   0.0000
+   0.0000   0.4616
+   sub_tot=  0.923193
+ max error due to symm in ncp =     0.000000
+ imp=  1 sum_phy-sum_var=     -0.00000000
+        sum_phy-sum_ks =     -0.01259070 would be renormalized!
+************    ncp-renorm  ************
+ imp=  1
+ real part
+   0.4679   0.0000
+   0.0000   0.4679
+   sub_tot=  0.935783
+************    isimix-var  ************
+ imp=  1
+ real part
+   2.0041   0.0000
+   0.0000   2.0041
+************        r0-out  ************
+ imp=  1
+ real part
+   0.3267   0.0000
+   0.0000   0.3267
+************         r-out  ************
+ imp=  1
+ real part
+   0.6548   0.0000
+   0.0000   0.6548
+************     r-out-sym  ************
+ imp=  1
+ real part
+   0.6548   0.0000
+   0.0000   0.6548
+ max error due to symm in r-out =     0.000000
+************     z-out-sym  ************
+ imp=  1
+ real part
+   0.4288   0.0000
+   0.0000   0.4288
+ imp=  1 eigen values of         z:
+    0.4288    0.4288
+ e_total_model = -1.0394801
+ total number of electrons in simulation: 1.32099
+ maximal local symmetrization error =    0.00000
+ CyGFinal takes    0 h  0 m  0.04 s(cpu).
+                   0 h  0 m  0.24 s(wall).
+ total number of impurities =    1
+ impurity imap indices:
+       1
+ impurity num_spin_orbitals:
+       2
+ transformation db_to_sab read in.
+ imp =  1 v2e(1,1,1,1) = 2.00
+ mott localized orbital info:
+ i=  1 nsorb= 0 nelect= 0
+ ispin_in= 1 iso= 1 ispin= 1 ispo= 1
+************     h1e-unsym  ************
+ imp=  1
+ real part
+  -1.0000   0.0000
+   0.0000  -1.0000
+   orbital splitting:
+   0.00000   0.00000
+ imp=  1 eigen values of h1e-unsym:
+   -1.0000   -1.0000
+************       h1e-sym  ************
+ imp=  1
+ real part
+  -1.0000   0.0000
+   0.0000  -1.0000
+   orbital splitting:
+   0.00000   0.00000
+ imp=  1 eigen values of   h1e-sym:
+   -1.0000   -1.0000
+ max error due to symm in h1e =     0.000000
+ min/max(this%ne(1,:,:))=       2       2
+ min/max(this%ne(2,:,:))=       1       1
+ min/max(this%ne(3,:,:))=       2       2
+ this%nmax=   2
+ valence electrons: total=     0.0
+         correlated block=     0.0
+ no double counting.
+************          r-in  ************
+ imp=  1
+ real part
+   0.6614   0.0000
+   0.0000   0.6614
+************        la1-in  ************
+ imp=  1
+ real part
+   0.0739   0.0000
+   0.0000   0.0739
+ calc_band_all takes    0 h  0 m  0.01 s(cpu).
+                        0 h  0 m  0.01 s(wall).
+ gutz fermi level=      0.00000000
+************     nks-unsym  ************
+ imp=  1
+ real part
+   0.4679   0.0000
+   0.0000   0.4679
+   sub_tot=  0.935783
+ imp=  1 eigen values of nks-unsym:
+    0.4679    0.4679
+************       nks-sym  ************
+ imp=  1
+ real part
+   0.4679   0.0000
+   0.0000   0.4679
+   sub_tot=  0.935783
+ max error due to symm in nks =     0.000000
+ imp=  1 eigen values of   nks-sym:
+    0.4679    0.4679
+ nele_loc total:
+       0.46789   0.46789
+************    isimix-var  ************
+ imp=  1
+ real part
+   2.0041   0.0000
+   0.0000   2.0041
+************      d0-unsym  ************
+ imp=  1
+ real part
+  -0.1053   0.0000
+   0.0000  -0.1053
+************        d0-sym  ************
+ imp=  1
+ real part
+  -0.1053   0.0000
+   0.0000  -0.1053
+ max error due to symm in d0 =     0.000000
+************         d-sym  ************
+ imp=  1
+ real part
+  -0.2110   0.0000
+   0.0000  -0.2110
+************           la2  ************
+ imp=  1
+ real part
+  -0.0559   0.0000
+   0.0000  -0.0559
+ e_mol = -1.0347692 e_tot = -1.1465987
+************     ncv-unsym  ************
+ imp=  1
+ real part
+   0.4616  -0.0000
+  -0.0000   0.4616
+   sub_tot=  0.923193
+************       ncv-sym  ************
+ imp=  1
+ real part
+   0.4616   0.0000
+   0.0000   0.4616
+   sub_tot=  0.923193
+ max error due to symm in ncv =     0.000000
+************     ncp-unsym  ************
+ imp=  1
+ real part
+   0.4616   0.0000
+   0.0000   0.4616
+   sub_tot=  0.923193
+************       ncp-sym  ************
+ imp=  1
+ real part
+   0.4616   0.0000
+   0.0000   0.4616
+   sub_tot=  0.923193
+ max error due to symm in ncp =     0.000000
+ imp=  1 sum_phy-sum_var=     -0.00000000
+        sum_phy-sum_ks =     -0.01259070 would be renormalized!
+************    ncp-renorm  ************
+ imp=  1
+ real part
+   0.4679   0.0000
+   0.0000   0.4679
+   sub_tot=  0.935783
+************    isimix-var  ************
+ imp=  1
+ real part
+   2.0041   0.0000
+   0.0000   2.0041
+************        r0-out  ************
+ imp=  1
+ real part
+   0.3267   0.0000
+   0.0000   0.3267
+************         r-out  ************
+ imp=  1
+ real part
+   0.6548   0.0000
+   0.0000   0.6548
+************     r-out-sym  ************
+ imp=  1
+ real part
+   0.6548   0.0000
+   0.0000   0.6548
+ max error due to symm in r-out =     0.000000
+************     z-out-sym  ************
+ imp=  1
+ real part
+   0.4288   0.0000
+   0.0000   0.4288
+ imp=  1 eigen values of         z:
+    0.4288    0.4288
+ e_total_model = -1.0394801
+ total number of electrons in simulation: 1.32099
+ maximal local symmetrization error =    0.00000
+ CyGFinal takes    0 h  0 m  0.04 s(cpu).
+                   0 h  0 m  0.24 s(wall).
